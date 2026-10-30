@@ -10,9 +10,12 @@ I’m Fawaz, a junior programmer passionate about self-learning and continuous g
 
 🚀 Always learning, experimenting, and turning ideas into code.
 
+___
 
 Languages I’m learning:
 * Python
 * C
+
+---
 
 𝕏 Follow my journey and see what I’m working on: [@FWZdev](https://x.com/fwzdev)
