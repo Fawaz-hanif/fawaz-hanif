@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Fawaz-hanif/fawaz-hanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+print("Hello, World! 👋")
 
-Here are some ideas to get you started:
+I’m Fawaz, a junior programmer passionate about self-learning and continuous growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy problem-solving and building useful tools.
+
+🧠 Passionate about exploring AI and understanding how things work.
+
+🚀 Always learning, experimenting, and turning ideas into code.
+
+
+Languages I’m learning:
+* Python
+* C
+
+𝕏 Follow my journey and see what I’m working on: [@FWZdev](https://x.com/fwzdev)
